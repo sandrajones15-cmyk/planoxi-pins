@@ -1,0 +1,4 @@
+# Secrets — never commit
+gh_token.txt
+*.token
+.env
