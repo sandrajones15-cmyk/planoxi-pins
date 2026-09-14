@@ -2,3 +2,9 @@
 gh_token.txt
 *.token
 .env
+
+# Import CSVs — keyword strategy + schedule stay private (local only)
+csv-imports/
+
+# Cowork auto-saved deliverables dump — keep out of the public repo
+Claude outputs/
